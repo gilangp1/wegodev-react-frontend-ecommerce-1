@@ -1,117 +1,131 @@
 {
-  "creator": "wegodev",
+  "creator": "lilyolo",
   "list": [
     {
       "id": 1,
-      "name": "Asparagus",
-      "img": "https://i.ibb.co/4m50NPZ/asparagus.jpg",
-      "price": 2000,
-      "quantity": 100,
-      "sold": 60,
-      "rating": 4.5,
-      "promo": [
-        "FREESHIPPING"
+      "name": "Kimetsu No Yaiba",
+      "img": "https://i.ibb.co/m83mJyz/KnYb.jpg",
+      "studio": "ufotable",
+      "episodes": 26,
+      "source": "Manga",
+      "score": 8.5,
+      "genres": [
+        "ACTIONS",
+        "DEMONS",
+        "HISTORICAL"
       ],
-      "seen": 100,
-      "weight": "200gr",
-      "condition": "NEW",
-      "description": "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling"
+      "members": 100,
+      "aired": "Apr 6, 2019",
+      "rating": "R-17+",
+      "synopsis": "Ever since the death of his father, the burden of supporting the family has fallen upon Tanjirou Kamado's shoulders. Though living impoverished on a remote mountain, the Kamado family are able to enjoy a relatively peaceful and happy life. One day, Tanjirou decides to go down to the local village to make a little money selling charcoal. On his way back, night falls, forcing Tanjirou to take shelter in the house of a strange man, who warns him of the existence of flesh-eating demons that lurk in the woods at night."
     },
     {
       "id": 2,
-      "name": "Morning Glory",
-      "img": "https://i.ibb.co/94PQTzP/morning-glory.jpg",
-      "price": 4500,
-      "quantity": 90,
-      "sold": 50,
-      "rating": 4.7,
-      "promo": [
-        "CASHBACK"
+      "name": "One Piece",
+      "img": "https://i.ibb.co/L8522WX/one-piece.jpg",
+      "studio": "Toei Animation",
+      "episodes": 1000,
+      "source": "Manga",
+      "score": 8.4,
+      "genres": [
+        "ACTIONS",
+        "ADVENTURE",
+        "COMEDY"
       ],
-      "seen": 100,
-      "weight": "200gr",
-      "condition": "NEW",
-      "description": "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling"
+      "members": 100,
+      "aired": "Oct 20, 1999",
+      "rating": "PG-13",
+      "synopsis": "Gol D. Roger was known as the Pirate King, the strongest and most infamous being to have sailed the Grand Line. The capture and execution of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece"
     },
     {
       "id": 3,
-      "name": "Brussel Sprouts",
-      "img": "https://i.ibb.co/FsvjPWx/brussel-sprouts.jpg",
-      "price": 14500,
-      "quantity": 20,
-      "sold": 10,
-      "rating": 4.1,
-      "promo": [
-        "FREESHIPPING"
+      "name": "Clannad",
+      "img": "https://i.ibb.co/fkbh5W2/clannad.jpg",
+      "studio": "Kyoto Animation",
+      "episodes": 23,
+      "source": "Visual Novel",
+      "score": 8.1,
+      "genres": [
+        "COMEDY",
+        "SLICEOFLIFE",
+        "ROMANCE"
       ],
-      "seen": 80,
-      "weight": "200gr",
-      "condition": "NEW",
-      "description": "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling"
+      "members": 80,
+      "aired": "Oct 5, 2007",
+      "rating": "PG-13",
+      "synopsis": "Tomoya Okazaki is a delinquent who finds life dull and believes he'll never amount to anything. Along with his friend Youhei Sunohara, he skips school and plans to waste his high school days away."
     },
     {
       "id": 4,
-      "name": "Carrots",
-      "img": "https://i.ibb.co/2q7s6QM/carrots.jpg",
-      "price": 3500,
-      "quantity": 200,
-      "sold": 100,
-      "rating": 4.2,
-      "promo": [
-        "CASHBACK"
+      "name": "Tenki No Ko",
+      "img": "https://i.ibb.co/ZGJgVNg/tenki-no-ko.jpg",
+      "studio": "CoMix Wave Films",
+      "episodes": 1,
+      "source": "Original",
+      "score": 8.4,
+      "genres": [
+        "SLICEOFLIFE",
+        "ROMANCE",
+        "FANTASY"
       ],
-      "seen": 120,
-      "weight": "100gr",
-      "condition": "NEW",
-      "description": "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling"
+      "members": 120,
+      "aired": "Jul 19, 2019",
+      "rating": "PG-13",
+      "synopsis": "Tokyo is currently experiencing rain showers that seem to disrupt the usual pace of everyone living there to no end. Amidst this seemingly eternal downpour arrives the runaway high school student Hodaka Morishima, who struggles to financially support himself—ending up with a job at a small-time publisher. At the same time, the orphaned Hina Amano also strives to find work to sustain herself and her younger brother."
     },
     {
       "id": 5,
-      "name": "Fresh Gingers",
-      "img": "https://i.ibb.co/wr1YMsb/ginger.jpg",
-      "price": 14000,
-      "quantity": 200,
-      "sold": 100,
-      "rating": 4.1,
-      "promo": [
-        "FREESHIPPING",
-        "CASHBACK"
+      "name": "Kino No Tabi",
+      "img": "https://i.ibb.co/xG63LVR/kino-no-tabi.jpg",
+      "studio": "A.C.G.T",
+      "episodes": 13,
+      "source": "Light Novel",
+      "score": 8.3,
+      "genres": [
+        "ADVENTURE",
+        "PSYCHOLOGICAL",
+        "SLICEOFLIFE"
       ],
-      "seen": 200,
-      "weight": "200gr",
-      "condition": "NEW",
-      "description": "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling"
+      "members": 200,
+      "aired": "Apr 8, 2003",
+      "rating": "R-17+",
+      "synopsis": "Kino, a 15-year-old traveler, forms a bond with Hermes, a talking motorcycle. Together, they wander the lands and venture through various countries and places, despite having no clear idea of what to expect. After all, life is a journey filled with the unknown."
     },
     {
-      "id": 6,
-      "name": "Fresh Gingers",
-      "img": "https://i.ibb.co/JcWSLCj/chili.jpg",
-      "price": 25000,
-      "quantity": 200,
-      "sold": 100,
-      "rating": 4.6,
-      "promo": [],
-      "seen": 200,
-      "weight": "100gr",
-      "condition": "NEW",
-      "description": "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling"
+     "id": 6,
+     "name": "Diamond No Ace",
+     "img": "https://i.ibb.co/wQjSLHR/diamond-no-ace.jpg",
+     "studio": "Madhouse",
+     "episodes": 52,
+     "source": "Manga",
+     "score": 8.2,
+     "genres": [
+       "SPORTS",
+       "SHOUNEN",
+       "SCHOOL"
+     ],
+     "members": 200,
+     "aired": "Apr 2, 2019",
+     "rating": "PG-13",
+     "synopsis": "Picking up the next year after the end of the fall tournament, Seidou High School baseball team battle it out with new and old faces as they begin their tournament run at Koshien."
     },
     {
       "id": 7,
-      "name": "Water Spinach",
-      "img": "https://i.ibb.co/tZC9nrB/spinach.jpg",
-      "price": 3000,
-      "quantity": 200,
-      "sold": 100,
-      "rating": 4.6,
-      "promo": [
-        "FREESHIPPING",
-        "CASHBACK"
+      "name": "Haikyuu",
+      "img": "https://i.ibb.co/YDDxX9K/haikyuu.jpg",
+      "studio": "Production I.G",
+      "episodes": 25,
+      "source": "Manga",
+      "score": 8.6,
+      "genres": [
+       "SPORTS",
+       "COMEDY",
+       "SCHOOL"
       ],
-      "seen": 340,
-      "weight": "100gr",
-      "condition": "NEW",
-      "description": "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling"
+      "members": 340,
+      "aired": "Apr 6, 2014",
+      "rating": "PG-13",
+      "synopsis": "Inspired after watching a volleyball ace nicknamed Little Giant in action, small-statured Shouyou Hinata revives the volleyball club at his middle school. The newly-formed team even makes it to a tournament; however, their first match turns out to be their last when they are brutally squashed by the King of the Court, Tobio Kageyama. Hinata vows to surpass Kageyama, and so after graduating from middle school, he joins Karasuno High School's volleyball team—only to find that his sworn rival, Kageyama, is now his teammate."
     }
   ]
 }
